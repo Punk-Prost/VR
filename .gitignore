@@ -1,0 +1,82 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Local builds and backups
+[Bb]uild/
+[Bb]uilds/
+[Bb]ackups/
+
+# IDE and operating-system files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Reports, office documents, exports and temporary archives
+[Rr]eports/
+*.doc
+*.docx
+*.pdf
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.rtf
+*.odt
+*.tmp
+*.bak
+*.zip
+*.7z
+*.rar
+*.doc.meta
+*.docx.meta
+*.pdf.meta
+*.ppt.meta
+*.pptx.meta
+*.xls.meta
+*.xlsx.meta
+*.rtf.meta
+*.odt.meta
+*.tmp.meta
+*.bak.meta
+*.zip.meta
+*.7z.meta
+*.rar.meta
+
+# Imported package documentation that is not required at runtime
+**/Overview.html
+**/Overview.html.meta
+
+# Unity Asset Store packages cannot be redistributed in a public repository
+Assets/HDRPLab/
+Assets/HDRPLab.meta
+Assets/LowPolySoldiers_demo/
+Assets/LowPolySoldiers_demo.meta
+Assets/StarSparrow/
+Assets/StarSparrow.meta
+
+# Unity crash reports and generated test output
+sysinfo.txt
+crashlytics-build.properties
+TestResults/
+
